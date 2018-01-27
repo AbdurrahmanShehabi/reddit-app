@@ -1,0 +1,37 @@
+span#title{
+    color: black;
+    font-size: 80px;
+
+  }
+  div.postTitle{
+    width : 602px;
+    border-style: solid;
+    font-size: 20
+  }
+  div.postText{
+    width : 602px;
+    border-style: solid;
+    font-size: 15
+    }
+  button{
+    border-style: solid;
+    border-color: red;
+    font-size: 25px;
+  }
+
+  div.post{
+  }
+  div.post .title{
+    width : 602px;
+    border-style: solid;
+    font-size: 20
+  }
+  div.post .text{
+    width : 602px;
+    border-style: solid;
+    font-size: 15
+  }
+  label{
+     width : 130px;
+     display: inline-block;
+  }
